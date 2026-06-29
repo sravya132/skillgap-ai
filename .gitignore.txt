@@ -1,0 +1,19 @@
+# Secrets
+application.properties.local
+backend/src/main/resources/application.properties
+backend/src/main/resources/application.properties.local
+
+# Build
+backend/target/
+target/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Uploads
+uploads/
+
+# IDE
+.idea/
+.vscode/
