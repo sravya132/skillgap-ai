@@ -3,7 +3,7 @@
 > An AI-powered career development platform that analyzes students' skills, identifies learning gaps, and provides personalized career guidance using Gemini AI.
 
 <p align="center">
-  <b>🚧 Work in Progress 🚧</b><br>
+  <b>Work in Progress </b><br>
   This project is actively under development. New features, UI enhancements, and DevOps deployment are being added continuously.
 </p>
 
