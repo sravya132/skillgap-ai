@@ -1,4 +1,4 @@
-# 🚀 SkillGap AI
+# SkillGap AI
 
 > An AI-powered career development platform that analyzes students' skills, identifies learning gaps, and provides personalized career guidance using Gemini AI.
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 SkillGap AI is a full-stack web application designed to help students evaluate their current skills, identify knowledge gaps, and receive AI-generated recommendations to improve their placement readiness.
 
@@ -17,20 +17,20 @@ The platform combines **React**, **Spring Boot**, **MongoDB**, and **Gemini AI**
 
 ---
 
-## ✨ Current Features
+## Current Features
 
-- 🔐 User Registration & Login
-- 🛡 JWT Authentication
-- 👥 Role-Based Access Control
-- 🤖 AI-Powered Skill Gap Analysis
-- 📄 Resume-Based Skill Evaluation
-- 🎯 Personalized Learning Recommendations
-- 📊 Student Dashboard
-- 📱 Responsive User Interface
+- User Registration & Login
+- JWT Authentication
+- Role-Based Access Control
+- AI-Powered Skill Gap Analysis
+- Resume-Based Skill Evaluation
+- Personalized Learning Recommendations
+- Student Dashboard
+- Responsive User Interface
 
 ---
 
-## 🚧 Upcoming Features
+## Upcoming Features
 
 - AI Mock Interview Module
 - ATS Resume Score
@@ -44,7 +44,7 @@ The platform combines **React**, **Spring Boot**, **MongoDB**, and **Gemini AI**
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Category | Technology |
 |----------|------------|
@@ -58,7 +58,7 @@ The platform combines **React**, **Spring Boot**, **MongoDB**, and **Gemini AI**
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 SkillGap-AI/
@@ -81,7 +81,7 @@ SkillGap-AI/
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Clone the Repository
 
@@ -122,7 +122,7 @@ npm run dev
 
 ---
 
-## 🔑 Configuration
+## Configuration
 
 Create an `application.properties` file using the provided `application.properties.example`.
 
@@ -133,11 +133,11 @@ Update the following values:
 - Database Password
 - Gemini API Key
 
-> ⚠️ API keys and credentials are intentionally excluded from this repository for security reasons.
+> API keys and credentials are intentionally excluded from this repository for security reasons.
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 This project focuses on:
 
@@ -151,7 +151,7 @@ This project focuses on:
 
 ---
 
-## 🚀 Future Roadmap
+## Future Roadmap
 
 - Docker
 - Jenkins
@@ -163,7 +163,7 @@ This project focuses on:
 
 ---
 
-## 💡 Skills Demonstrated
+## Skills Demonstrated
 
 - Full Stack Development
 - REST API Development
